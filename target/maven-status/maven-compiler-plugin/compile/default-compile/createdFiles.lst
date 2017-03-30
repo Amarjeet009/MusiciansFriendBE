@@ -1,0 +1,5 @@
+com\amarj\musiciansfriend\App.class
+com\amarj\musiciansfriend\model\User.class
+com\amarj\musiciansfriend\dao\UserDAO.class
+com\amarj\musiciansfriend\daoimpl\UserDAOImpl.class
+com\amarj\musiciansfriend\Config\ApplicationContextConfig.class
